@@ -24,7 +24,7 @@
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - ☁️ &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS-S3)
+  ![AWS](https://img.shields.io/badge/-S3-333333?style=flat&logo=AWS)
   ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=GCP)
 
 <br/>
