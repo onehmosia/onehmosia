@@ -39,7 +39,7 @@
 
 <br/>
 <a href="https://github.com/oneh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onehmosia8&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onehmosia&theme=buefy&layout=compact" />
 </a>
 
 <br/>
