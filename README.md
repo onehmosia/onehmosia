@@ -39,9 +39,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.onehmosia.wordpress.com/"><img alt="blog" src="https://img.shields.io/badge/Website-www.onehmosia.wordpress.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/oneh.py/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-oneh.py-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.youtube.com/channel/UCF-nGlpiS7KhfSDknEhNCnQ"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-Thulani Mosiakgabo-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hello@oneh.online"><img alt="Email" src="https://img.shields.io/badge/Email-hello@oneh.online-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.youtube.com/channel/UCF-nGlpiS7KhfSDknEhNCnQ"><img alt="Youtube" src="https://img.shields.io/badge/Oneh does code-blue?style=flat-square&logo=YouTube"></a>
 </p>
 
 
