@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Oneh.</h2>
+<h2> Hey there! I'm Thulani.</h2>
 
 <h3> 👩🏽‍💻 &nbsp;About Me </h3>
 
