@@ -30,7 +30,7 @@
 
 
 <br/>
-<a href="https://github.com/oneh">
+<a href="https://github.com/thulanimosiakgabo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulanimosiakgabo&theme=buefy&layout=compact" />
 </a>
 
